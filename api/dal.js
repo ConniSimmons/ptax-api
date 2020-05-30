@@ -1,4 +1,4 @@
-const mongoose = require('mongoose');
+/*const mongoose = require('mongoose');
 
 // CRUD = CREATE, READ, UPDATE, DELETE ** DO NOT USE ARROW FUNCTION HERE
 module.exports = function (modelName, modelSchema) {
@@ -21,3 +21,4 @@ module.exports = function (modelName, modelSchema) {
     }
     return mongoose.model(modelName, modelSchema);
 }
+*/
